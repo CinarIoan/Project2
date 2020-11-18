@@ -16,6 +16,7 @@ namespace Project2
             Console.WriteLine($"This is {nume} {prenume}");
             Console.ReadLine();
             //some changes
+            //some other changes
         }
     }
 }
