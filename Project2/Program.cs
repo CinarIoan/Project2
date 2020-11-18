@@ -15,6 +15,7 @@ namespace Project2
             Console.WriteLine("This is my first Console Project in Ubuntu");
             Console.WriteLine($"This is {nume} {prenume}");
             Console.ReadLine();
+            //some changes
         }
     }
 }
